@@ -1,7 +1,3 @@
-Aqui está uma versão aprimorada do README para o **Bake**, destacando o **-O-id** e o **-O-ego**, com foco em ajudar desenvolvedores web a criar Web Components performáticos:
-
----
-
 # Bake
 
 Bem-vindo ao **Bake**! Este repositório reúne uma coleção de ferramentas e frameworks open-source projetados para capacitar desenvolvedores web na criação de interfaces robustas e performáticas. Criado por [@deMGoncalves](https://github.com/deMGoncalves), o **Bake** é o berço de projetos como **-O-id** e **-O-ego**, que se concentram na construção eficiente de Web Components.
@@ -37,7 +33,3 @@ Contribuições são sempre bem-vindas! Se você quiser colaborar com o **-O-id*
 ## Licença
 
 Todos os projetos do **Bake** são open-source e licenciados sob a Licença MIT. Isso significa que você é livre para usar, modificar e distribuir o código, desde que siga os termos da licença.
-
----
-
-Essa versão aprimorada dá maior ênfase ao objetivo de ajudar desenvolvedores web a criar Web Components performáticos, destacando a relação entre o **-O-id** e o **-O-ego** e explicando como cada um contribui para o desenvolvimento de interfaces eficientes.
