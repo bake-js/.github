@@ -1,35 +1,37 @@
+[🇧🇷 Leia em Português](./README.pt-BR.md) | [🇺🇸 Read in English](./README.md)
+
 # Bake
 
-Bem-vindo ao **Bake**! Este repositório reúne uma coleção de ferramentas e frameworks open-source projetados para capacitar desenvolvedores web na criação de interfaces robustas e performáticas. Criado por [@deMGoncalves](https://github.com/deMGoncalves), o **Bake** é o berço de projetos como **-O-id** e **-O-ego**, que se concentram na construção eficiente de Web Components.
+Welcome to **Bake**! This repository brings together a collection of open-source tools and frameworks designed to empower web developers in creating robust and high-performance interfaces. Created by [@deMGoncalves](https://github.com/deMGoncalves), **Bake** is the home of projects like **-O-id** and **-O-ego**, which focus on the efficient construction of Web Components.
 
-Nosso foco é simplificar o desenvolvimento de componentes web de alta performance, fornecendo ferramentas flexíveis e intuitivas que facilitam a criação de interfaces modernas e reativas.
+Our focus is to simplify the development of high-performance web components by providing flexible and intuitive tools that facilitate the creation of modern and reactive interfaces.
 
-## Projetos
+## Projects
 
 ### -O-id
 
-**-O-id** é uma biblioteca poderosa para o desenvolvimento de Web Components personalizados. Inspirado na psicanálise de Sigmund Freud, o nome "-O-id" simboliza a base primitiva e essencial de todo componente web. A biblioteca foi projetada para ser a fundação de interfaces performáticas, permitindo que desenvolvedores criem componentes reutilizáveis, altamente eficientes e fáceis de manter.
+**-O-id** is a powerful library for developing custom Web Components. Inspired by the psychoanalysis of Sigmund Freud, the name "-O-id" symbolizes the primitive and essential foundation of every web component. The library is designed to be the foundation of high-performance interfaces, allowing developers to create reusable, highly efficient, and easy-to-maintain components.
 
-Com **-O-id**, você pode aproveitar uma série de decorators que facilitam a criação e o ciclo de vida dos componentes, tornando o desenvolvimento mais fluido e menos verboso. A simplicidade e flexibilidade de **-O-id** tornam-no ideal para quem busca criar interfaces dinâmicas com controle total sobre a reatividade e o desempenho.
+With **-O-id**, you can take advantage of a series of decorators that facilitate the creation and lifecycle of components, making development smoother and less verbose. The simplicity and flexibility of **-O-id** make it ideal for those looking to create dynamic interfaces with complete control over reactivity and performance.
 
-Saiba mais sobre **-O-id** [aqui](https://github.com/bake-js/-O-id).
+Learn more about **-O-id** [here](https://github.com/bake-js/-O-id).
 
 ### -O-ego
 
-**-O-ego** é a extensão natural do **-O-id** para a camada de interface de usuário. Se o **-O-id** representa a base dos componentes, o **-O-ego** é responsável por equilibrar forma e função, entregando uma experiência visual fluida e altamente performática. Inspirado pelo "ego" freudiano, que equilibra os impulsos com a realidade, o **-O-ego** atua como uma ponte entre o backend e a interface, garantindo que a lógica de negócios se traduza em componentes visuais eficientes.
+**-O-ego** is the natural extension of **-O-id** to the user interface layer. While **-O-id** represents the foundation of components, **-O-ego** is responsible for balancing form and function, delivering a smooth and highly performant visual experience. Inspired by the Freudian "ego," which balances impulses with reality, **-O-ego** acts as a bridge between the backend and the interface, ensuring that business logic translates into efficient visual components.
 
-Com **-O-ego**, os desenvolvedores têm acesso a uma biblioteca de UI Componentes prontos para uso, totalmente customizáveis e otimizados para desempenho. Seja para criar layouts responsivos ou componentes interativos, o **-O-ego** traz o equilíbrio necessário para construir interfaces escaláveis e modernas.
+With **-O-ego**, developers have access to a library of ready-to-use UI Components that are fully customizable and optimized for performance. Whether creating responsive layouts or interactive components, **-O-ego** provides the necessary balance to build scalable and modern interfaces.
 
-Explore mais sobre **-O-ego** [aqui](https://github.com/bake-js/-O-ego).
+Explore more about **-O-ego** [here](https://github.com/bake-js/-O-ego).
 
-## Sobre o Bake
+## About Bake
 
-O **Bake** é uma coleção de projetos criados para simplificar o processo de desenvolvimento web, com ênfase em Web Components e desempenho. Idealizado por [@deMGoncalves](https://github.com/deMGoncalves), o Bake tem como objetivo fornecer ferramentas que permitem aos desenvolvedores transformar conceitos em interfaces de forma rápida e eficaz, sem comprometer a performance.
+**Bake** is a collection of projects created to simplify the web development process, with an emphasis on Web Components and performance. Conceptualized by [@deMGoncalves](https://github.com/deMGoncalves), Bake aims to provide tools that enable developers to transform concepts into interfaces quickly and effectively without compromising performance.
 
-## Contribuindo
+## Contributing
 
-Contribuições são sempre bem-vindas! Se você quiser colaborar com o **-O-id**, **-O-ego** ou qualquer outro projeto do Bake, visite os repositórios individuais para saber mais sobre como contribuir.
+Contributions are always welcome! If you want to collaborate on **-O-id**, **-O-ego**, or any other Bake project, visit the individual repositories to learn more about how to contribute.
 
-## Licença
+## License
 
-Todos os projetos do **Bake** são open-source e licenciados sob a Licença MIT. Isso significa que você é livre para usar, modificar e distribuir o código, desde que siga os termos da licença.
+All projects under **Bake** are open-source and licensed under the MIT License. This means you are free to use, modify, and distribute the code as long as you follow the terms of the license.
